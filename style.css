@@ -1,0 +1,126 @@
+.allContent {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+header {
+    margin-top: 10px;
+    height: 100px;
+    display: block;
+}
+
+.silverWare {
+    float: left;
+}
+
+#delicious {
+    margin-top: -5px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.foodBlog {
+    margin-top: -22px;
+    margin-left: 5px;
+    font-size: 10%;
+}
+
+.deliciousBest {
+    float: left;
+}
+
+.socialMedia {
+    float: right;
+}
+
+.gap {
+    margin-right: 10px;
+}
+
+.bar {
+    background-image: url("img/lab-assets/hr-img.png");
+    background-repeat: repeat-x repeat-y;
+    height: 15px;
+    margin: 0 auto;
+}
+
+.posted {
+    font-size: 10%;
+    margin-top: -25px;
+    color: #999;
+}
+
+.print {
+    float: right;
+    font-size: 80%;
+    color: #999;
+    margin-top: -30px;
+}
+
+#pizzaPhoto {
+    margin-top: 20px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.recipe {
+    background-image: url("img/lab-assets/list-bg.png");
+    height: 140px;
+    padding: 20px;
+    padding-left: 75px;
+    font-size: 18px;
+}
+
+.lowerBar {
+    height: 100px;
+    float: left;
+}
+
+.vanessa {
+    margin-left: 75px;
+    margin-top: -90px;
+}
+
+button {
+    float: right;
+    padding: 10px 30px 10px 30px;
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    border: none;
+}
+
+.barBottom {
+    background-image: url("img/lab-assets/hr-img.png");
+    background-repeat: repeat-x repeat-y;
+    height: 15px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+hr {
+    width: 375px;
+    display: inline-block;
+    margin-bottom: 15px;
+    border-top: .75px;
+}
+
+.footer {
+    margin-top: 100px;
+    text-align: center;
+}
+
+h6 {
+    color: #999;
+    font-weight: lighter;
+}
